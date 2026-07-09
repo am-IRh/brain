@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "03b11ac7fcb2409e",
+        "id": "e151dc67479fac2f",
         "type": "tabs",
         "children": [
           {
-            "id": "b48dc4de79194bc2",
+            "id": "8a8f8a7967947ec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - English ☘️/Grammar/Grammar.md",
+                "file": "00 - Inbox 📥/QUICK NOTE/Deep in Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammar"
+              "title": "Deep in Java"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff29ffcfe6cfe09c",
@@ -192,27 +193,38 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b48dc4de79194bc2",
+  "active": "8a8f8a7967947ec3",
   "lastOpenFiles": [
+    "01 - Programming/Back-end/Java/References/Java Methods.md",
+    "00 - Inbox 📥/QUICK NOTE/Deep in Java.md",
+    "01 - Programming/Back-end/Java/References/Java's Call Stack.md",
+    "01 - Programming/Back-end/Java/References/Basics/JDK & DRE & JVM.md",
+    "01 - Programming/Back-end/Java/Readme.md",
+    "01 - Programming/Back-end/Java/References/Basics",
+    "01 - Programming/Back-end/Java/References",
+    "01 - Programming/Front-end/CSS/CSS Fundamental.md",
+    "01 - Programming/Back-end/Java",
+    "copilot/copilot-conversations/Inline_Elements_CSS_Limits@20260704_000823.md",
+    "copilot/copilot-conversations/CSS_Layout_Algorithms@20260703_084640.md",
+    "01 - Programming/Front-end/CSS",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "03 - English ☘️/Grammar/Grammar.md",
     "copilot/copilot-conversations/توانایی‌ها_و_کاربردها@20260630_032348.md",
     "copilot/copilot-conversations",
     "copilot/copilot-log.md",
-    "03 - English ☘️/Grammar/Grammar.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "Untitled.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot"

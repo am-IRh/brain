@@ -3,5 +3,5 @@
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "cssTheme": "Catppuccin",
-  "textFontFamily": "Dank mono bold,MonoLisa,Monaspace Argon Frozen"
+  "textFontFamily": "MonoLisa,Dank mono bold,Monaspace Argon Frozen"
 }
